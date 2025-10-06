@@ -1,2 +1,1 @@
-# Cybersecurity-Threat-detector-try
-An intelligent cybersecurity threat detector that analyzes URLs and text for risks, featuring a threat scoring system and deep analysis powered by the Gemini AI. 🤖
+This Cybersecurity Threat Detector is a web-based tool designed to help users identify potential security risks in URLs and text snippets. It uses a hybrid approach for analysis: an initial scan with a rule-based engine checks for common threat indicators (like phishing keywords and suspicious domains), and then offers a "Deeper AI Analysis" feature. This advanced feature leverages the Google Gemini API to provide a comprehensive, easy-to-understand explanation of the potential threats, making cybersecurity analysis accessible to everyone.
